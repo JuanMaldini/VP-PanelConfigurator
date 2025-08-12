@@ -1,0 +1,224 @@
+[
+  {
+    "collection": "Impact",
+    "subcollections": [
+      {"name": "Fuse", "variations": ["Berry 804-001", "Jungle 804-003", "Oceanic 804-004", "Piano 804-006", "Parchment 804-007"]},
+      {"name": "Note", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Pivot", "variations": ["1", "2", "3"]},
+      {"name": "Summit", "variations": ["1", "2", "3", "4"]},
+      {"name": "Twist", "variations": ["1", "2", "3", "4", "5"]}
+    ]
+  },
+  {
+    "collection": "Hyphyn™",
+    "subcollections": [
+      {"name": "Cosmos", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Gadget", "variations": ["1", "2", "3", "4"]},
+      {"name": "Gaia", "variations": ["1", "2", "3"]},
+      {"name": "Tellus", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Universe", "variations": ["1", "2", "3", "4"]}
+    ]
+  },
+  {
+    "collection": "Keystone",
+    "subcollections": [
+      {"name": "Chev", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Enliven", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Fleck", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Focus", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Palermo II", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Pavilion", "variations": ["1", "2", "3", "4", "5"]}
+    ]
+  },
+  {
+    "collection": "Vitality",
+    "subcollections": [
+      {"name": "Foliage", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Nimble", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Ripple", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Ritzi", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Sequoia", "variations": ["1", "2", "3", "4", "5"]}
+    ]
+  },
+  {
+    "collection": "Botanique",
+    "subcollections": [
+      {"name": "Bloom", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Flora", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Sanctuary", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Valley", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Vista", "variations": ["1", "2", "3", "4", "5"]}
+    ]
+  },
+  {
+    "collection": "Getaway",
+    "subcollections": [
+      {"name": "Amalfi", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Belize", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Riviera", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Tulum", "variations": ["1", "2", "3", "4", "5"]}
+    ]
+  },
+  {
+    "collection": "SEAQUAL INITIATIVE",
+    "subcollections": [
+      {"name": "Caspian", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Denali", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Leoni", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Mira", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Serene", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Tranquility", "variations": ["1", "2", "3", "4", "5"]}
+    ]
+  },
+  {
+    "collection": "Cambridge",
+    "subcollections": [
+      {"name": "Adler", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Delmar", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Durango", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Lancaster", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Omega", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Seville", "variations": ["1", "2", "3", "4", "5"]}
+    ]
+  },
+  {
+    "collection": "Prestige",
+    "subcollections": [
+      {"name": "Fitz", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Harper", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Lyric", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Sonnet", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Utopia", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Webster", "variations": ["1", "2", "3", "4", "5"]}
+    ]
+  },
+  {
+    "collection": "Revival",
+    "subcollections": [
+      {"name": "Arc", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Beaux", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Retro", "variations": ["1", "2", "3", "4", "5"]}
+    ]
+  },
+  {
+    "collection": "Craftsman",
+    "subcollections": [
+      {"name": "Empire Silicone", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Omega", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Prospect", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Spartan", "variations": ["1", "2", "3", "4", "5"]}
+    ]
+  },
+  {
+    "collection": "Axis",
+    "subcollections": [
+      {"name": "Connect", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Fractal", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Loop", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Vertex", "variations": ["1", "2", "3", "4", "5"]}
+    ]
+  },
+  {
+    "collection": "Supreen",
+    "subcollections": [
+      {"name": "Fleck", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Haven", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Legacy", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Ritzi", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Scout", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Utopia", "variations": ["1", "2", "3", "4", "5"]}
+    ]
+  },
+  {
+    "collection": "Crypton Structures",
+    "subcollections": [
+      {"name": "Channel", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Form", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Function", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Gatsby", "variations": ["1", "2", "3", "4", "5"]}
+    ]
+  },
+  {
+    "collection": "Quantum",
+    "subcollections": [
+      {"name": "Gravity", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Relativity", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Static", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Matter", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Molecule", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Vector", "variations": ["1", "2", "3", "4", "5"]}
+    ]
+  },
+  {
+    "collection": "Good Vibes",
+    "subcollections": [
+      {"name": "Jive", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Rumba", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Samba", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Tango", "variations": ["1", "2", "3", "4", "5"]}
+    ]
+  },
+  {
+    "collection": "Majorelle",
+    "subcollections": [
+      {"name": "Botany", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Labyrinth", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Landscape", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Refuge", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Villa", "variations": ["1", "2", "3", "4", "5"]}
+    ]
+  },
+  {
+    "collection": "Tourist",
+    "subcollections": [
+      {"name": "Bali", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Havana", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Sydney", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Imprint", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Noble", "variations": ["1", "2", "3", "4", "5"]}
+    ]
+  },
+  {
+    "collection": "Wonderlust",
+    "subcollections": [
+      {"name": "Acuco", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Comalapa", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Haarlem", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Huipil", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Milagro", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Puno", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Sula", "variations": ["1", "2", "3", "4", "5"]}
+    ]
+  },
+  {
+    "collection": "Anatolia",
+    "subcollections": [
+      {"name": "Ankara", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Ephesus", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Marmara", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Odessa", "variations": ["1", "2", "3", "4", "5"]}
+    ]
+  },
+  {
+    "collection": "Vollis Simpson",
+    "subcollections": [
+      {"name": "Metal Strips", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Reflector", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Signs", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Spokes", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Whirligig", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Wilson", "variations": ["1", "2", "3", "4", "5"]}
+    ]
+  },
+  {
+    "collection": "Spectrum",
+    "subcollections": [
+      {"name": "Continuum 10", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Foundation 10", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Optic 10", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Prism 10", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Theory 10", "variations": ["1", "2", "3", "4", "5"]},
+      {"name": "Variant 10", "variations": ["1", "2", "3", "4", "5"]}
+    ]
+  }
+]
