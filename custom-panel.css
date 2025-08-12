@@ -1,13 +1,9 @@
-/* Minimal readable CSS for the custom panel + accordion.
-	 Keep only selectors actually used in custom-panel.js. */
-
-/* Panel container */
 #ccPanelRoot {
 	position: fixed;
 	top: 0;
 	right: 0;
 	height: 100svh;
-	width: 350px;
+	width: 600px;
 	max-width: 80vw;
 	background: #fff;
 	border-left: 1px solid #ccc;
@@ -20,7 +16,6 @@
 }
 body.cc-panel-open #ccPanelRoot { transform: translateX(0); }
 
-/* Header */
 #ccPanelHeader {
 	display: flex;
 	align-items: center;
@@ -30,7 +25,6 @@ body.cc-panel-open #ccPanelRoot { transform: translateX(0); }
 	font-weight: 600;
 }
 
-/* Floating close button */
 #ccPanelCloseBtn {
 	position: fixed;
 	top: 12px;
@@ -73,9 +67,6 @@ body:not(.cc-panel-open) #ccPanelCloseBtn { display: none; }
 }
 #ccPanelToggleBtn:hover { background: var(--color3); border-color: var(--color3); }
 
-/* Removed accordion & nested item styles (no longer used) */
-
-/* Hide original UI buttons */
 #controls, #connectionStrength { display: none !important; }
 
 @media (max-width: 640px) {

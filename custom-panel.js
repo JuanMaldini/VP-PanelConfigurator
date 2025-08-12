@@ -3,10 +3,6 @@
 // A global object `window.CCPanel` is exposed for integration / overrides.
 (() => {
   'use strict';
-
-  /** ==========================
-   *  CONSTANTS / CONFIG DEFAULTS
-   *  ========================== */
   const SELECTORS = {
     rootId: 'ccPanelRoot',
     toggleId: 'ccPanelToggleBtn',
@@ -18,7 +14,7 @@
 
   const DEFAULT_CONFIG = Object.freeze({
     dataUrl: 'custom-panel/collections.json',
-    defaultOpen: true,
+    defaultOpen: false,
     ui: { toggleLabel: 'Panel', panelTitle: 'Configurator', variationsTitle: 'Variations' },
     messaging: { type: 'variation-select', prefix: '', suffix: '' },
     debug: true
